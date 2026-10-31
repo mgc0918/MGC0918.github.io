@@ -7,10 +7,6 @@ Welcome! I specialize in bridging **business analytics, relational database arch
 | 🎓 **Education** | M.S. in Cybersecurity & Business Analytics (In Progress) • BBA in MIS • Certificate in Business Analytics |
 | 🛠️ **Core Stack** | SQL • Python (Pandas, Matplotlib, Scikit-Learn) • Power BI • Tableau • Excel Solver • Git |
 
-🎓 **Education:** M.S. in Cybersecurity & Business Analytics (In Progress) • BBA in Management Information Systems • Certificate in Business Analytics
-
-🛠️ **Core Stack:** SQL • Python (Pandas, Matplotlib, Scikit-Learn) • Power BI • Tableau • Excel Solver • Git
-
 ---
 
 ## 🚀 Flagship End-to-End Projects
