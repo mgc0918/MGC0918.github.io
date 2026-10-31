@@ -9,7 +9,7 @@ Welcome! I specialize in bridging **business analytics, relational database arch
 
 ## 🚀 Flagship End-to-End Projects
 
-### 1. 🏥 [Healthcare Operations & Readmission Risk Engine](./healthcare-operations-end-to-end-analytics)
+### 1. 🏥 [Healthcare Operations & Readmission Risk Engine](https://github.com/MGC0918/healthcare-operations-readmission-risk-engine)
 **Tech Stack:** `SQL` `Python (Pandas, Matplotlib, Scikit-Learn)` `Power BI` `Excel`
 * **The Business Problem:** High 30-day patient readmission rates and billing outliers across emergency and elective departments.
 * **The Solution:** 
